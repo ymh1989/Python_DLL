@@ -1,0 +1,12 @@
+runfile('C:/Users/Minhyun Yoo/Documents/Python Scripts/python_dll.py', wdir='C:/Users/Minhyun Yoo/Documents/Python Scripts')
+
+<array test>
+list sum : 6.5
+--------------------------------------
+<struct test>
+s1[0].x, y : 0.0, 1.2
+s1[1].x, y : 1.0, 2.2
+s1[2].x, y : 2.0, 3.2
+sum[0] : 1.2
+sum[1] : 3.2
+sum[2] : 5.2
