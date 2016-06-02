@@ -6,7 +6,7 @@
 
 - CPU : Intel(R) Core(TM) i5-6400 @ 2.7GHZ
 - RAM : DDR3L 16GB PC3-12800
-- [Python 3.5](https://www.python.org/), [ctypes](https://docs.python.org/3.5/library/ctypes.html
+- [Python 3.5](https://www.python.org/), [ctypes](https://docs.python.org/3.5/library/ctypes.html)
 
 ###Example###
 - `array_pass.dll`: Passing array from `Python` to `DLL`
